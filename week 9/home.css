@@ -1,0 +1,32 @@
+.centerd {
+    color: red;
+    text-align: center;
+}
+
+.large {
+    font-size: large;
+}
+
+.medium {
+    font-size: medium;
+}
+
+.small {
+    font-size: small;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:hover {
+    color: black;
+}
+
+#google{
+    color: red
+}
+
+#harverd{
+    color: blue
+}
