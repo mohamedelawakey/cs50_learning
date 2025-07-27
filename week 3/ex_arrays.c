@@ -2,6 +2,7 @@
 #include <cs50.h>
 
 // constant - we can but it out of main func, to be clear for programer
+
 const int N = 3;
 float avarage(int length, int array[]);
 
