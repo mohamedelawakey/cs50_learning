@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <cs50.h>
-int main(void){
+int main(void){ 
     float first_num = get_int("what is first number? ");
     float secound_num = get_int("what is secound number? ");
     float total = first_num / secound_num;
